@@ -257,3 +257,4 @@ print All_suits
 print Full_board_no_suits
 print ordered
 print new_suits
+print "y"
